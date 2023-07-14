@@ -22,16 +22,16 @@ SRR4249869
 ```
 
 
-``sh SRA_to_DMG.sh SRR_list.csv SRA-DMG.csv``  
+```sh SRA_to_DMG.sh SRR_list.csv SRA-DMG.csv`` ` 
 
-``
+```
 cat SRA-DMG.csv
 DMG1600126
 DMG1600122
 DMG1600140
 DMG1600139
 DMG1600138
-``
+```
 
 
 
