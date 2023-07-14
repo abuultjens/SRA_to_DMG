@@ -12,14 +12,14 @@ Can be installed through conda with:
 
 ## Example
 
-``
+`
 cat SRR_list.csv  
 SRR4249865  
 SRR4249866  
 SRR4249867  
 SRR4249868  
 SRR4249869  
-``
+`
 
 ``sh SRA_to_DMG.sh SRR_list.csv SRA-DMG.csv``  
 
